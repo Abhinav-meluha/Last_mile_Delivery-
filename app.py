@@ -10,7 +10,7 @@ import plotly.express as px
 
 # ---------- PAGE CONFIG ----------
 st.set_page_config(page_title="Last-Mile Delivery Analytics", layout="wide")
-st.title("🚚 Last-Mile Delivery Analytics Dashboard")
+st.title("Last-Mile Delivery Analytics Dashboard")
 st.caption("IBCP – AI Career-Related Study | FA2 Project by Abhinav Chanakya")
 
 # ---------- DATA LOADING ----------
