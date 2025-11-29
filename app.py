@@ -1,6 +1,8 @@
 # ======================================================
 # 📦 Last-Mile Delivery Dashboard – FA2 (Abhinav Chanakya)
 # ======================================================
+import os
+os.system("pip install plotly pandas numpy streamlit -q")
 
 import os
 import streamlit as st
